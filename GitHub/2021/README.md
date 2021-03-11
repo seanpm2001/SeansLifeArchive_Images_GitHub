@@ -25,7 +25,9 @@ The images are sorted into 3 subcategories:
 
 * 3. **Mixed** - For images in both light and dark mode. Called unsorted up until February 28th 2021, turned into mixed on March 1st 2021
 
-Currently, I haven't uploaded the images separately in different visual modes, so only mixed and unsorted are currently maintained.
+<!-- Currently, I haven't uploaded the images separately in different visual modes, so only mixed and unsorted are currently maintained. !-->
+
+Separate light mode and dark mode pictures for March 8th 2021 were uploaded on March 9th 2021. The next day, I spent a ton of time, and got dark mode and light mode pictures for all categories from March 1st 2021 to March 9th 2021 (except for upload fails) as of March 11th 2021, sorted images are still being maintained.
 
 These images are used for progress monitoring and achievements.
 
@@ -37,9 +39,9 @@ Images from 2021 are in 1920x1200 resolution and are in the PNG format. They wer
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Monday, March 8th 2021 at 6:41 pm)`
+File version: `2 (Thursday, March 11th 2021 at 3:19 pm)`
 
-Line count (including blank lines and compiler line): `81`
+Line count (including blank lines and compiler line): `95`
 
 ***
 
@@ -61,13 +63,25 @@ Version 1 (Monday, March 8th 2021 at 6:41 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Thursday, March 11th 2021 at 3:19 pm)
+
+> Changes:
+
+> * Updated info on visual sorting maintenance
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 1
+> * No other changes in version 3
 
 ***
 
