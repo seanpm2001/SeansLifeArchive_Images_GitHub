@@ -1,10 +1,12 @@
-  
-***
 
-# Image unavailable
+***
+ 
+# Dark mode image unavailable
 
 ## June 19th 2021
 
-An image for this directory is unavailable, as I didn't take any GitHub error screenshots today (No errors occurred on GitHub for me today) Data will never be available here.
+A dark mode image for this directory is currently unavailable.
+
+When there are images for the day, contributors can edit and make a dark mode version of the light mode image.
 
 ***
