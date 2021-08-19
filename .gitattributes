@@ -5,12 +5,15 @@
 # .gitattributes
 # and nothing else, no characters before, no characters after
 # Start of linguist script
-# Go (duplicate)
+# Go (duplicate, as it is already detected)
 *.go linguist-detectable=true
 *.go linguist-documentation=false
-# Ruby (duplicate)
+# Ruby (duplicate, as it is already detected)
 *.rb linguist-detectable=true
 *.rb linguist-documentation=false
+# Makefile (duplicate, as it is already detected)
+*.mk linguist-detectable=true
+*.mk linguist-documentation=false
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
 *.yaml linguist-detectable=false
 *.yaml linguist-documentation=false
@@ -35,6 +38,6 @@
 # End of linguist script
 # File info
 # File type: .gitattributes file
-# File version: 1 (Wednesay, August 18th 2021 at 6:25 pm)
-# Line count (including blank lines and compiler line): 41
+# File version: 1 (Wednesday, August 18th 2021 at 6:44 pm)
+# Line count (including blank lines and compiler line): 44
 # End of script
