@@ -1,8 +1,11 @@
----
-Installing SeansLifeArchive/Images/GitHub
----
 
-SeansLifeArchive/Images/ModernSmurfsVillage currently doesn't require installation, it is just a collection of images and data. It is part of the Seanpm2001 Life Archive project, and for proper "installation" the repository should be placed under /SeansLifeArchive/<yourInstalledVersion>/Resources/Images/
+----
+
+----
+Installing SeansLifeArchive/Images/GitHub
+----
+
+SeansLifeArchive/Images/GitHub currently doesn't require installation, it is just a collection of images and data. It is part of the Seanpm2001 Life Archive project, and for proper "installation" the repository should be placed under /SeansLifeArchive/<yourInstalledVersion>/Resources/Images/
 
 If you want to load the first project language file, you will need to have Go installed (version 1 or higher)
 
@@ -16,6 +19,8 @@ Some included files are in Markdown format (*.md) for best viewing, you should u
 
 Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
 
----
-Install instructions file version: 1 (Wednesday, August 18th 2021 at 6:18 pm)
----
+----
+Install instructions file version: 2 (2022, Saturday, March 19th at 6:08 pm)
+----
+
+----
