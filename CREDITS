@@ -1,22 +1,44 @@
 
----
+----
+
+== Credits ==
 
 {{int:version-credits-summary}}
-Seans Life Archive / Images / GitHUB is NOT a collaborative project, but it IS released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
 
-This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+Seans Life Archive / Images / GitHub is NOT a collaborative project, but it IS released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+<!-- This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
 
 == Maintainers ==
+
 <!-- BEGIN MAINTAINERS LIST !-->
 
 1. @seanpm2001 - Creator and primary maintainer of Seans Life Archive / Images / GitHub
-2. No other contributors as of Wednesday, August 18th 2021
+
+2. @all-contributors[bot] - Keeps up with crediting contributors
+
+3. No other contributors as of 2022, Saturday, March 19th at 5:26 pm
 
 == Contributors ==
-<!-- BEGIN CONTRIBUTOR LIST -->
-1. @seanpm2001
-2. @GitHub (For GitHub, and for being the first host of this project)
-3. @GNOME (For GNOME Screenshot, the tool used to get these screenshots from 2020 to 2021)
-4. No other contributors as of Wednesday, August 18th 2021
 
----
+<!-- BEGIN CONTRIBUTOR LIST -->
+
+1. @seanpm2001
+
+2. @all-contributors[bot] - Keeps up with crediting contributors
+
+3. @GitHub (For GitHub, and for being the first host of this project)
+
+4. @GNOME (For GNOME Screenshot, the tool used to get these screenshots from 2020 to 2021)
+
+5. No other contributors as of 2022, Saturday, March 19th at 5:26 pm
+
+=== File info ===
+
+<b>File type:</b> <i>MediaWiki document (*.wiki)</i>
+
+<b>File version:</b> <i>2 (2022, Saturday, March 19th at 5:26 pm)</i>
+
+<b>Line count (including blank lines and compiler line):</b> <i>45</i>
+
+----
