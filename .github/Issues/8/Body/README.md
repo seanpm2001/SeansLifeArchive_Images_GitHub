@@ -6,7 +6,35 @@
 
 This is a log of content fixes I have been documenting for this project. Cleanup tasks are a bit excessive, as I have to delete dozens of files one at a time (unless there is a better way I don't know of) missing content tasks require re-uploads, but I don't have all the data on me right now for everything. These tasks are being held off to a future date.
 
-## Cleanup needed
+## Cleanup needed 2020
+
+I am merging [#1](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub/issues/1/) into this issue, so that I can have less open issues, and because it is the exact same category.
+
+### [Upload error] Data for December 25th 2020 uploaded incorrectly #1
+
+***
+
+### [Upload error] Data for December 25th 2020 uploaded incorrectly
+
+I made a small error on December 26th 2020 with the December 25th 2020 images. There were no commit count mile stones for this date, and I mixed the data for this directory and the miscellaneous directory.
+
+Miscellaneous images for December 25th 2020 were accidentally uploaded to Commit_Count_Milestones for December 25th 2020. The IGNORE.md file is also not there, there is a README.md file there instead. Make sure to delete it before February 2021.
+
+***
+
+Reply1:
+
+```markdown
+If anyone knows how to mass-move files in Git, let me know. Mass-moving binary (or even regular) files is something I don't know how to do yet, and would make fixing this issue much easier.
+```
+
+***
+
+Both the issue and reply were originally by [@seanpm2001](https://github.com/seanpm2001/)
+
+***
+
+## Cleanup needed 2021
 
 ### Commit_Count_Milestones
 
@@ -161,5 +189,7 @@ This is a log of content fixes I have been documenting for this project. Cleanup
 ***
 
 **Issued on:** `2022, Wednesday, March 30th at 8:29 pm` by [@seanpm2001](https://github.com/seanpm2001/)
+
+**First revised on:** `2022, Wednesday, March 30th at 8:38 pm` by [@seanpm2001](https://github.com/seanpm2001/)
 
 ***
