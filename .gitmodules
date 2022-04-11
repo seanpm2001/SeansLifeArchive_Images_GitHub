@@ -1,0 +1,9 @@
+# Gitmodules for the main GitHub image repo
+# 2022 images
+[submodule "seanpm2001/SeansLifeArchive_Images_GitHub_Y2022"]
+	path = SeansLifeArchive_Images_GitHub/2022
+	url = https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub_Y2022
+# File info
+# File type: Git Modules file (*.gitmodules)
+# File version: 1 (2022, Monday, April 11th at 2:42 pm PST)
+# Line count (including blank lines and compiler line): 10
